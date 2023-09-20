@@ -1,0 +1,25 @@
+
+  .ContactUs {
+    margin: 40px auto;
+    margin-top: 120px;
+    padding: 20px;
+    background-color: #bda2ab;
+    border: 5px solid #000000;
+    border-radius: 4px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  .ContactUs h2 {
+    color: #333;
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-decoration: underline rgb(7, 116, 97);
+  }
+  
+  .ContactUs p {
+    color: #000000;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  

@@ -1,0 +1,60 @@
+.Adminpage{
+    margin-top: 55px;
+    margin-left: 100px;
+
+}
+
+.Adminpage h1 {
+  
+    
+  color:  darkred;
+  margin-top: 20px;
+  
+}
+
+
+
+.searchproduct{
+    width: 500px;
+}
+  .searchproduct .icon {
+   
+    cursor: pointer;
+  }
+  
+  .searchproduct .icon:hover {
+    background-color: #ddd;
+    color: #3c6d0f;
+  }
+
+
+  .addproductbtn{
+    width: 250px;
+   
+
+  }
+
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+   
+  }
+  
+  .search-input {
+    width: 600px;
+    height: 40px;
+    
+    border: 2px solid #a1ad31;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left:180px ;
+  }
+  
+  
+  
+
+  
+
+  
+  

@@ -1,0 +1,37 @@
+.Adminlogin {
+    
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+    margin-top: 40px;
+    margin-left: 520px;
+    
+  }
+
+  .Adminlogin form {
+    width: 50%;
+  }
+  
+  .Adminlogin input,
+  .Adminlogin button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+ 
+
+  .Adminlogin p {
+  
+    font-size: 18px;
+    
+  }
+
+ 
+
+
+
+
+
+
+
+  
